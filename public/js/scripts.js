@@ -55,6 +55,6 @@ $(document).ready(function () {
     submitForm();
   });
   getProjects();
-  addCards(cardList);
+  
   $(".modal").modal();
 });
